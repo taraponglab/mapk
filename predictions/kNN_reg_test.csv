@@ -1,0 +1,6 @@
+LigandID,kNN_AtomPairs2D,kNN_AtomPairs2DCount,kNN_CDK,kNN_CDKextended,kNN_CDKgraphonly,kNN_EState,kNN_KlekotaRoth,kNN_KlekotaRothCount,kNN_MACCS,kNN_PubChem,kNN_Substructure,kNN_SubstructureCount
+CHEMBL3971505,1,1,1,1,1,1,1,1,1,1,1,1
+CHEMBL4114320,1,1,1,1,1,1,1,1,1,1,1,1
+CHEMBL4106855,1,1,0,0,0,0,1,1,1,0,1,1
+CHEMBL3654689,1,1,1,0,0,0,0,1,1,0,0,0
+CHEMBL4107477,0,0,1,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,6 @@
+LigandID,SVC-rbf_AtomPairs2D,SVC-rbf_AtomPairs2DCount,SVC-rbf_CDK,SVC-rbf_CDKextended,SVC-rbf_CDKgraphonly,SVC-rbf_EState,SVC-rbf_KlekotaRoth,SVC-rbf_KlekotaRothCount,SVC-rbf_MACCS,SVC-rbf_PubChem,SVC-rbf_Substructure,SVC-rbf_SubstructureCount
+CHEMBL3971505,1,1,1,1,1,1,1,1,1,1,1,1
+CHEMBL4114320,1,1,1,1,1,1,1,1,1,1,1,1
+CHEMBL4106855,1,1,1,0,1,1,1,1,1,0,1,1
+CHEMBL3654689,1,1,0,0,0,0,1,1,0,1,0,1
+CHEMBL4107477,0,0,1,0,0,0,0,0,1,0,0,1
